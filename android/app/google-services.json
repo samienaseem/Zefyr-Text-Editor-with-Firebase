@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196708944515",
+    "firebase_url": "https://zefyr-firebase-eaa41.firebaseio.com",
+    "project_id": "zefyr-firebase-eaa41",
+    "storage_bucket": "zefyr-firebase-eaa41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196708944515:android:07b475b289cde2b986a9b6",
+        "android_client_info": {
+          "package_name": "com.example.zefyr_text_editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196708944515-45nc23injavos33gagvnmotcsimoenaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwdk0eiOIk__7eZprzJQZkifLtBXd7nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196708944515-45nc23injavos33gagvnmotcsimoenaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
